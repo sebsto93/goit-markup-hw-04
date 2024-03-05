@@ -469,6 +469,10 @@ section {
   height: 40px;
 }
 
+.sm_footer_style {
+  fill: #f4f4fd;
+}
+
 .sm_footer_icon {
   width: 100%;
   height: 100%;
