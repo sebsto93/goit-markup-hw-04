@@ -361,6 +361,12 @@ section {
   width: calc((100% - 48px) / 3);
 }
 
+.list_points_sec_four:focus,
+.list_points_sec_four:hover {
+  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+}
+
 .aplication {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
@@ -405,4 +411,12 @@ section {
 
 .sm_style {
   fill: #f4f4fd;
+}
+
+.portfolio_content {
+
+}
+
+.text_transition {
+  
 }
