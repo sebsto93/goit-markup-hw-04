@@ -483,4 +483,5 @@ section {
 .sm_footer_icon:hover,
 .sm_footer_icon:active,
 .sm_footer_icon:focus {
-    background-color: #31d0aa;
+  background-color: #31d0aa;
+}
