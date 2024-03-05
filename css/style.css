@@ -398,6 +398,11 @@ section {
   border-radius: 50%;
 }
 
+.sm_link:focus,
+.sm_link:hover {
+  background-color: #404bbf;
+}
+
 .sm_style {
   fill: #f4f4fd;
 }
